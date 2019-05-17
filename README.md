@@ -1,4 +1,4 @@
-#Recursion
+#recursion
 
 Simple recursive function examples
 	1.	A function that recursively prints a string in reverse.
