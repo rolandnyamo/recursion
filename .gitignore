@@ -1,0 +1,7 @@
+*.dSYM/*
+*.o
+rfun
+.vscode/*
+.DS_Store
+*.zip
+*.gch
